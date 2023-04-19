@@ -3,11 +3,11 @@ $primary: #900;
 $enable-shadows: true;
 $prefix: "mo-";
 
-// Then import Bootstrap
-@import "../node_modules/bootstrap/scss/bootstrap";
+// Then import Bootstrap 
+// @import "../node_modules/bootstrap/scss/bootstrap";
 
 body {
-  font: 100% $font-stack;
-  color: $primary-color;
+  // font: 100% $font-stack;
+  // color: $primary-color;
   background: #900;
 }
