@@ -58,7 +58,6 @@
     "fast-json-stable-stringify": "^2.1.0",
     "fill-range": "^7.0.1",
     "fraction.js": "^4.2.0",
-    "fsevents": "^2.3.2",
     "glob-parent": "^5.1.2",
     "glob-to-regexp": "^0.4.1",
     "graceful-fs": "^4.2.11",
