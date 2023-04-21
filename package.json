@@ -143,7 +143,7 @@
     "yn": "^3.1.1"
   },
   "scripts": {
-    "dev": "sass --watch --update --style=expanded scss:scss/css",
+    "dev": "sass --watch --update --style=expanded scss:scss/css/style.css",
     "build": "sass --no-source-map --style=compressed scss:scss/css"
   },
   "author": "",
